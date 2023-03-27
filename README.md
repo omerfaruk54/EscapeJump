@@ -2,33 +2,33 @@
 It is a game where we have to avoid the obstacles coming towards us.
 
 
-Objelerden Kaçış
-Bu oyun, oyuncuların üzerlerine düşen veya sol tarafından gelen objelerden kaçınarak mümkün olduğunca uzun süre hayatta kalmalarını ve puanlarını artırmalarını amaçlar.
-Puanınız arttıkça farklı objeler ortaya çıkacak ve bu objelerin ortaya çıkma süreleri gittikçe azalacaktır, oyuncunun refleksi ve dikkati ne kadar iyiyse
-o kadar fazla puan toplayacaktır.
+# Escape from Objects
+This game aims players to stay alive as long as possible and increase their score by avoiding objects falling on them or coming from their left side.
+As your score increases, different objects will appear and the spawn time of these objects will gradually decrease, the better the player's reflex and attention.
+the more points you will collect.
 
-Nasıl Oynanır?
-Oyun başladığında, oyuncu bir karakteri kontrol edecek.
+# How to play?
+- When the game starts, the player will control a character.
 
-Karakter ekranın alt kısmında yer alacak ve istendiği zaman olarak sağa-sola doğru hareket edebilecek aynı zamanda zıplayabilecektir.
+- The character will be located at the bottom of the screen and will be able to move left and right at any time and can jump at the same time.
 
-Oyuncu karakteri sağa veya sola hareket ettirmek için ekrandaki joyisticki kullanabilir zıplayabilmek için yukarı ok butonuna basabilir,
-yere hızla inmek içinse aşağı ok butonuna basabilecektir.
+- The player can use the joystick on the screen to move the character left or right, press the up arrow button to jump,
+will be able to press the down arrow button to descend rapidly to the ground.
 
-Oyun 100 puan aldığınıda bir obje ve 250 skor aldığında başka bir obje daha çıkaracaktır, objelerin çıkma süresi kısalacaktır,
-bu nedenle oyuncuların hızlı tepki vermesi gerekecektir.
+- The game will remove an object when you get 100 points and another object when you get 250 points, the spawn time of the objects will be shortened,
+players will therefore need to react quickly.
 
-Oyuncu, üzerine düşen objelerden herhangi birine temas ettiğinde oyun sona erecektir.
+- The game will end when the player touches any of the objects falling on him.
 
-Kurulum
-Oyun, Android işletim sistemi için mevcuttur.
+# Setup
+- The game is available for the Android operating system.
 
-Kontroller
-Sağa-Sola gitmek için ekranda gözüken joysticki kullanın.
+# Controls
+- Use the joystick that appears on the screen to move left and right.
 
-Zıplamak için Yukarı Ok butonunu kullanın.
+- Use the Up Arrow button to jump.
 
-Yere hızlı inmek için Aşağı Ok butonunu kullanın.
+- Use the Down Arrow button to land fast.
 
-İletişim
-Oyunla ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen şu e-posta adresi üzerinden benimle iletişime geçin: omerfaruksahin.54@gmail.com
+# Communication
+ - If you have any questions or feedback regarding the game, please contact me at this email address: omerfaruksahin.54@gmail.com
